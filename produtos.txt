@@ -1,0 +1,5 @@
+Perecivel;Arroz;10
+Comum;feij�o;6
+Comum;a;4
+Comum;b;5
+Perecivel;c;8

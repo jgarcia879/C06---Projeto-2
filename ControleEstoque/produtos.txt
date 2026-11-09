@@ -1,0 +1,8 @@
+Comum;Arroz;2
+Comum;a;3
+Comum;b;4
+Comum;c;5
+Comum;d;6
+Perecivel;e;4
+Perecivel;f;5
+Perecivel;g;6
